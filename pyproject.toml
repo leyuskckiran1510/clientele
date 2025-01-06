@@ -10,7 +10,7 @@ homepage = "https://phalt.github.io/clientele/"
 
 [tool.poetry.urls]
 changelog = "https://phalt.github.io/clientele/CHANGELOG/"
-documentation = "https://phalt.github.io/clientele/"
+Documentation = "https://phalt.github.io/clientele/"
 issues = "https://github.com/phalt/clientele/issues"
 
 [tool.poetry.scripts]
